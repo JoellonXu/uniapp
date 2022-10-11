@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{a}}</text></view><view><button bindtap="{{b}}">登陆</button></view></view>
